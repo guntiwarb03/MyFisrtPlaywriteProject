@@ -1,0 +1,17 @@
+"use strict";
+let AdNo = undefined;
+let PaNo = null;
+console.log(typeof AdNo);
+console.log(typeof PaNo);
+let addharNumber = undefined;
+let pancardNumber = null;
+addharNumber = "ATH";
+pancardNumber = 789;
+console.log(addharNumber);
+console.log(pancardNumber);
+let hobby = 123;
+hobby = "hi";
+hobby = null;
+hobby = undefined;
+hobby = true;
+console.log(hobby);
